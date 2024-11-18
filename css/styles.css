@@ -64,7 +64,7 @@ body {
     align-items: center;
 }
 
-.social-icons-link a {
+.social-icons-li a {
     display: block;
     width: 100%;
     height: 100%;
@@ -73,7 +73,7 @@ body {
 
 
 
-.social-icons-link a:hover, .social-icons-link a:focus {
+.social-icons-li a:hover, .social-icons-li a:focus {
     background-color: #31d0aa;
 }
 
